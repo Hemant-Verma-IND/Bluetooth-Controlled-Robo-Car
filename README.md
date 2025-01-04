@@ -17,3 +17,5 @@ This is a **4-wheeled, small-sized light robo car** built using **Arduino UNO**,
 ✅ **Adjustable speed levels for optimized racing performance**  
 ✅ **Custom braking mechanism for efficient stopping**  
 ✅ **Optimized movement functions for forward, backward, and turns**  
+
+![2](https://github.com/user-attachments/assets/379b1f36-613f-4562-b81c-b7af24e4547f)
