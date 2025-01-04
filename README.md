@@ -1,6 +1,6 @@
 # Bluetooth-Controlled Robo Car
 
-![TC 01: Bot by Team Blue Banana Racing (NIT Rourkela)](https://github.com/user-attachments/assets/b6d9f5a0-f903-46d6-8fe4-712c99db4918)
+![WhatsAppVideo2025-01-04at18 26 10_99b9a4cb-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/08319776-1f74-4ea9-8066-1f4a53150fb5)
 
 ## Description
 This is a **4-wheeled, small-sized light robo car** built using **Arduino UNO**, **HC-05 Bluetooth Module**, and **L298N Motor Driver**. It was developed for the **Robo Race competition at Wissenaire, IIT Bhubaneswar**. The car is controlled via an **Android app**, allowing smooth movement and speed adjustment.
